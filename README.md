@@ -28,7 +28,7 @@ A GUI-based password manager built with Python’s `tkinter`. It allows users to
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ochuba1001/password-manager-gui.git
-   cd password-manager-gui
+   cd password-manager-
 2. Run the app:
    `bash
    python main.py
